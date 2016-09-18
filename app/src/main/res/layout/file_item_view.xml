@@ -14,7 +14,7 @@
         tools:src="@drawable/ic_folder_black_24dp"/>
 
     <TextView
-        android:id="@+id/file_item_view_text_view_text"
+        android:id="@+id/file_item_view_text_view_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
