@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.2"
     defaultConfig {
         applicationId "me.tombailey.installappspoc"
-        minSdkVersion 9
+        minSdkVersion 10
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
@@ -30,4 +30,5 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:24.2.0'
     compile 'com.jakewharton:butterknife:8.4.0'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
+    compile 'com.karumi:dexter:2.3.1'
 }
