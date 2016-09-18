@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Install Apps PoC</string>
+
+    <string name="invalid_file">Please select an APK file</string>
 </resources>
